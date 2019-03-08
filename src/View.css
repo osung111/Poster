@@ -1,0 +1,74 @@
+.View2{
+    
+    margin:auto;
+    width:95%;
+    height:95%;
+    
+    
+    
+}
+
+.poster{
+    float: left;
+    width:45%;
+    height:97%;
+    padding-top:19px;
+    text-align: center;
+
+
+}
+.poster img {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+
+
+.info{
+    margin-top:16px;
+    float:right;
+    width:55%;
+    height:95%;
+    
+    padding-top:15px;
+    background-color: white;
+    background-color: rgba( 255, 255, 255, 0.5 );
+
+    
+}
+.info2{
+    width:90%;
+
+}
+
+.title {
+    text-align: center;
+    font-size:29pt;
+    margin-bottom:20px;
+}
+
+.rating {
+    margin:auto;
+    font-size:14pt;
+    width:90%;
+    
+}
+.genres{
+    margin:auto;
+    font-size:14pt;
+    width:90%;
+    
+
+}
+
+
+.summary{
+    padding-top:4px;
+    margin:auto;
+    font-size:12pt;
+    width:90%;
+    height:80%;
+}
+
+.summary span {
+    font-size:14pt;
+}

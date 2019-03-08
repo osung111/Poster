@@ -1,0 +1,30 @@
+.List{
+    width:60%;
+    height:290;
+    margin:auto;
+    margin-top:10px;
+    color:white;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    
+}
+
+
+.Big{
+    
+    width:90%;
+    height:100%;
+    margin:auto;
+    padding-top: 4px;
+}
+
+.board{
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-image: url('./earth2.jpg');
+    background-size: contain;
+    margin:auto;
+    width:60%;
+    height:66%;
+    
+    
+    
+}
